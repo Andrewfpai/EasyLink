@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EasyLink/static/css/main.c785ef2a.css",
+    "main.js": "/EasyLink/static/js/main.8b89e800.js",
+    "static/js/787.282af568.chunk.js": "/EasyLink/static/js/787.282af568.chunk.js",
+    "static/media/background.png": "/EasyLink/static/media/background.37ab6f7c6997317adda0.png",
+    "static/media/profile-picture-opin.jpg": "/EasyLink/static/media/profile-picture-opin.c35f99ef0f72376f6ae0.jpg",
+    "static/media/profile-picture-pai.jpg": "/EasyLink/static/media/profile-picture-pai.0c995def445d3bfa544c.jpg",
+    "static/media/orange-background.png": "/EasyLink/static/media/orange-background.e3ada2c2c8d9af1ea165.png",
+    "static/media/clock.png": "/EasyLink/static/media/clock.b3aeb34bb34bbd9f977e.png",
+    "static/media/Bus.png": "/EasyLink/static/media/Bus.7501ca4f42bfe1863ebf.png",
+    "static/media/location.png": "/EasyLink/static/media/location.a405c2668c55f74c09be.png",
+    "static/media/target.png": "/EasyLink/static/media/target.a4d9b5358c6428863472.png",
+    "static/media/sad_emoji.png": "/EasyLink/static/media/sad_emoji.ecd5ab2f77753ff9ce11.png",
+    "static/media/Logo.png": "/EasyLink/static/media/Logo.24def1bd10194c2df21f.png",
+    "index.html": "/EasyLink/index.html",
+    "main.c785ef2a.css.map": "/EasyLink/static/css/main.c785ef2a.css.map",
+    "main.8b89e800.js.map": "/EasyLink/static/js/main.8b89e800.js.map",
+    "787.282af568.chunk.js.map": "/EasyLink/static/js/787.282af568.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c785ef2a.css",
+    "static/js/main.8b89e800.js"
+  ]
+}
